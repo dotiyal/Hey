@@ -6,4 +6,3 @@ class Solution:
                 return [i, hashmap[target-n]]
             hashmap[n] = i
         return
-      
