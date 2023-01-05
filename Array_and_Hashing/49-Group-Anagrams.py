@@ -10,4 +10,3 @@ class Solution:
             
             hashmap[tuple(counts)].append(s)
         return hashmap.values()
-        
