@@ -15,4 +15,3 @@ class Solution:
                 output_list.append(n)
                 if len(output_list) == k:
                     return output_list
-                    
