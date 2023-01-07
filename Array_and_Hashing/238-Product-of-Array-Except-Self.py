@@ -13,4 +13,3 @@ class Solution:
             postfix *= nums[i]
         
         return result
-      
